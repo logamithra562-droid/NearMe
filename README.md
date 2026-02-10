@@ -46,7 +46,7 @@ map.html
     <area target="" alt="little hearts residency" title="little hearts residency" href="residency.html" coords="1164,309,107" shape="circle">
     <area target="" alt="selvi mahal" title="selvi mahal" href="mahal.html" coords="1761,520,1917,580" shape="rect">
     </body>
-</html> 
+</html>
 
 hotel.html
 <html>
@@ -75,7 +75,7 @@ hotel.html
     park.html
     <html>
     <head> lake green park  </head>
-    <body bgcolor="orgen"> 
+    <body bgcolor="grey"> 
         <h1>
             Avadi
         </h1>
@@ -97,7 +97,7 @@ Welcome to Little Hearts, your cozy retreat nestled in the heart of Avadi, Chenn
     </body>
     </html>
 
-    restaurant.html
+    resaurant.html
     <html>
     <head> <title> annapoorani restaurant </title> </head>
     <body bgcolor="red"> 
@@ -109,21 +109,15 @@ Welcome to Little Hearts, your cozy retreat nestled in the heart of Avadi, Chenn
     </body>
     </html>
 
-
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (10).png>)
-![alt text](image.png)
-![alt text](<Screenshot (11).png>)
-![alt text](<Screenshot (12).png>)
-![alt text](<Screenshot (13).png>)
-![alt text](<Screenshot (14).png>)
-![alt text](<Screenshot (15).png>)
-
-
-
-
+![alt text](<Screenshot (19).png>)
+![alt text](<Screenshot (18).png>)
+![alt text](<Screenshot 2026-02-10 100944.png>)
+![alt text](<Screenshot 2026-02-10 100929.png>)
+![alt text](<Screenshot 2026-02-10 101017.png>)
+![alt text](<Screenshot 2026-02-10 101040.png>)
 
 
 ## RESULT
