@@ -113,6 +113,7 @@ Welcome to Little Hearts, your cozy retreat nestled in the heart of Avadi, Chenn
 ```
 
 ## OUTPUT
+![alt text](<Screenshot (10).png>)
 ![alt text](image.png)
 ![alt text](<Screenshot (11).png>)
 ![alt text](<Screenshot (12).png>)
